@@ -16,3 +16,21 @@ public:
 
     }
 };
+
+
+
+
+//another method to solve it ... using log...
+class Solution {
+public:
+    bool isPowerOfThree(int n) {
+          // let a variable a to find the power of 3....
+          //here we use log to find power .. eg: log(9)/log(3) = 2.00(which is the power of three)
+           double a = log(n) / log(3);
+        
+        // now check wheather the absolute difference b/t a and round of a is less that (1power(-10)) and if it is that means it is almost near to zero or zero ...
+        //hence it is divisible by 3 so return ans which will be true or false. 
+        double ans = abs(a - round(a)) < 1e-10;
+        return ans;
+    }
+};
