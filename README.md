@@ -30,3 +30,9 @@ https://leetcode.com/problems/two-sum/
 
 Submission:
 https://leetcode.com/problems/two-sum/submissions/
+
+Question:6
+https://leetcode.com/problems/sort-array-by-parity/
+
+Submission:
+https://leetcode.com/problems/sort-array-by-parity/submissions/
