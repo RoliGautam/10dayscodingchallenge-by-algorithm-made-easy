@@ -24,3 +24,9 @@ https://leetcode.com/problems/add-two-numbers/
 
 Submission:
 https://leetcode.com/problems/add-two-numbers/submissions/
+
+Question:5:-
+https://leetcode.com/problems/two-sum/
+
+Submission:
+https://leetcode.com/problems/two-sum/submissions/
