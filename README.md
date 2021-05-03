@@ -36,3 +36,9 @@ https://leetcode.com/problems/sort-array-by-parity/
 
 Submission:
 https://leetcode.com/problems/sort-array-by-parity/submissions/
+
+Question:7:
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+Submission :
+https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/
