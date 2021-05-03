@@ -19,6 +19,8 @@ https://leetcode.com/problems/powerful-integers/
 Submission:
 https://leetcode.com/problems/powerful-integers/submissions/
 
+## May 2, 2021 Questions :--
+
 Question:4:-
 https://leetcode.com/problems/add-two-numbers/
 
@@ -37,8 +39,16 @@ https://leetcode.com/problems/sort-array-by-parity/
 Submission:
 https://leetcode.com/problems/sort-array-by-parity/submissions/
 
+## May 3, 2021 Questions :--
+
 Question:7:
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 Submission :
 https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/
+
+Question : 8
+https://leetcode.com/problems/reverse-integer/
+
+Submission:
+https://leetcode.com/problems/reverse-integer/submissions/
