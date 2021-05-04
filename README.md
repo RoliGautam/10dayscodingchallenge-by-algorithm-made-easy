@@ -61,7 +61,7 @@ Submission:
 https://leetcode.com/problems/string-to-integer-atoi/submissions/
 
 
-### May 3, 2021 Questions :--
+### May 4, 2021 Questions :--
 
 Question:10
 https://leetcode.com/problems/longest-palindromic-substring/
@@ -74,3 +74,9 @@ https://leetcode.com/problems/degree-of-an-array/
 
 Submission:
 https://leetcode.com/problems/degree-of-an-array/submissions/
+
+Question:12
+https://leetcode.com/problems/palindrome-number/
+
+Submission:
+https://leetcode.com/problems/palindrome-number/submissions/
