@@ -68,3 +68,9 @@ https://leetcode.com/problems/longest-palindromic-substring/
 
 Submission:
 https://leetcode.com/problems/longest-palindromic-substring/submissions/
+
+Question:11
+https://leetcode.com/problems/degree-of-an-array/
+
+Submission:
+https://leetcode.com/problems/degree-of-an-array/submissions/
