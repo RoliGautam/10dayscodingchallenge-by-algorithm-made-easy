@@ -80,3 +80,14 @@ https://leetcode.com/problems/palindrome-number/
 
 Submission:
 https://leetcode.com/problems/palindrome-number/submissions/
+
+
+### May 5, 2021 Questions :--
+
+Question:1
+https://leetcode.com/problems/shuffle-the-array/
+
+Submission:
+https://leetcode.com/problems/shuffle-the-array/submissions/
+
+
