@@ -84,16 +84,20 @@ https://leetcode.com/problems/palindrome-number/submissions/
 
 ### May 5, 2021 Questions :--
 
-Question:1
+Question:13
 https://leetcode.com/problems/shuffle-the-array/
 
 Submission:
 https://leetcode.com/problems/shuffle-the-array/submissions/
 
-Question:2
+Question:14
 https://leetcode.com/problems/running-sum-of-1d-array/
 
 Submission:
 https://leetcode.com/problems/running-sum-of-1d-array/submissions/
 
+Question:15
+https://leetcode.com/problems/array-partition-i/
 
+Submission:
+https://leetcode.com/problems/array-partition-i/submissions/
