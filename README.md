@@ -122,3 +122,22 @@ https://leetcode.com/problems/break-a-palindrome/
 Submission:
 https://leetcode.com/problems/break-a-palindrome/submissions/
 
+### May 7, 2021..
+
+Question:19
+https://leetcode.com/problems/missing-number/
+
+Submission:
+https://leetcode.com/problems/missing-number/submissions/
+
+Question:20
+https://leetcode.com/problems/monotonic-array/
+
+Submission:
+https://leetcode.com/problems/monotonic-array/submissions/
+
+Question:21
+
+
+
+
