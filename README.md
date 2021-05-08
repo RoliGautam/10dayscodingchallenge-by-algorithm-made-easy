@@ -156,5 +156,11 @@ https://leetcode.com/problems/move-zeroes/
 Submission:
 https://leetcode.com/problems/move-zeroes/submissions/
 
+Question:23
+https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+
+Submission:
+https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/submissions/
+
 
 
