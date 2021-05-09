@@ -176,3 +176,9 @@ https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
 Submission:
 https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/
+
+Question:
+https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
+
+Submission:
+https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/submissions/
