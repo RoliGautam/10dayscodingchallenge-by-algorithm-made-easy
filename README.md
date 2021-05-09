@@ -169,4 +169,10 @@ Submission:
 https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/submissions/
 
 
+### May 9, 2021..
 
+Question:
+https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+
+Submission:
+https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/
