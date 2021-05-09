@@ -171,14 +171,21 @@ https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/submissions/
 
 ### May 9, 2021..
 
-Question:
+Question:26
 https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
 Submission:
 https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/
 
-Question:
+Question:27
 https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 
 Submission:
 https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/submissions/
+
+Question:28
+https://leetcode.com/problems/self-dividing-numbers/
+
+Submission:
+https://leetcode.com/problems/self-dividing-numbers/submissions/
+
