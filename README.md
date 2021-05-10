@@ -189,3 +189,12 @@ https://leetcode.com/problems/self-dividing-numbers/
 Submission:
 https://leetcode.com/problems/self-dividing-numbers/submissions/
 
+
+### May 10, 2021..
+
+Question:29:
+https://leetcode.com/problems/count-primes/
+
+Submission:
+https://leetcode.com/problems/count-primes/submissions/
+
