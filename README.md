@@ -198,3 +198,15 @@ https://leetcode.com/problems/count-primes/
 Submission:
 https://leetcode.com/problems/count-primes/submissions/
 
+Question:30
+https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
+
+Submission:
+https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/submissions/
+
+Question:31
+https://leetcode.com/problems/ugly-number/
+
+Submission:
+https://leetcode.com/problems/ugly-number/submissions/
+
